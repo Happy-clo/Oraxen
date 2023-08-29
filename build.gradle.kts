@@ -59,7 +59,7 @@ dependencies {
     compileOnly("com.ticxo.modelengine:api:R3.1.5")
     compileOnly(files("libs/compile/BSP.jar"))
     compileOnly("dev.jorel:commandapi-bukkit-shade:$commandApiVersion")
-    compileOnly("io.lumine:MythicLib:1.1.6")
+    compileOnly("io.lumine:MythicLib:1.4")
     compileOnly("net.Indyuce:MMOItems:6.7.3")
     compileOnly("org.joml:joml:1.10.5") // Because pre 1.19.4 api does not have this in the server-jar
 
