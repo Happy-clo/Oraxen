@@ -51,7 +51,7 @@ dependencies {
     compileOnly("me.clip:placeholderapi:2.11.3")
     compileOnly("com.github.BeYkeRYkt:LightAPI:5.3.0-Bukkit")
     compileOnly("me.gabytm.util:actions-core:$actionsVersion")
-    compileOnly("org.springframework:spring-expression:6.0.6")
+    compileOnly("org.springframework:spring-expression:6.0.11")
     compileOnly("io.lumine:Mythic-Dist:5.2.0-SNAPSHOT")
     compileOnly("io.lumine:MythicCrucible:1.7.0-SNAPSHOT")
     compileOnly("com.sk89q.worldedit:worldedit-bukkit:7.2.0")
@@ -147,7 +147,7 @@ bukkit {
     softDepend = listOf("LightAPI", "PlaceholderAPI", "MythicMobs", "MMOItems", "MythicCrucible", "BossShopPro", "CrateReloaded", "ItemBridge", "WorldEdit", "WorldGuard", "Towny", "Factions", "Lands", "PlotSquared", "NBTAPI", "ModelEngine", "CrashClaim", "ViaBackwards")
     depend = listOf("ProtocolLib")
     loadBefore = listOf("Realistic_World")
-    libraries = listOf("org.springframework:spring-expression:6.0.6", "org.apache.httpcomponents:httpmime:4.5.14", "dev.jorel:commandapi-bukkit-shade:$commandApiVersion", "org.joml:joml:1.10.5")
+    libraries = listOf("org.springframework:spring-expression:6.0.11", "org.apache.httpcomponents:httpmime:4.5.14", "dev.jorel:commandapi-bukkit-shade:$commandApiVersion", "org.joml:joml:1.10.5")
     permissions.create("oraxen.command") {
         description = "Allows the player to use the /oraxen command"
         default = net.minecrell.pluginyml.bukkit.BukkitPluginDescription.Permission.Default.TRUE
