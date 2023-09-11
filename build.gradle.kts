@@ -64,7 +64,7 @@ dependencies {
     compileOnly("org.joml:joml:1.10.5") // Because pre 1.19.4 api does not have this in the server-jar
 
     implementation("dev.triumphteam:triumph-gui:3.1.5")
-    implementation("org.bstats:bstats-bukkit:3.0.0")
+    implementation("org.bstats:bstats-bukkit:3.0.2")
     implementation("com.github.oraxen:protectionlib:1.3.3")
     implementation("net.kyori:adventure-text-minimessage:4.14.0")
     implementation("net.kyori:adventure-text-serializer-plain:4.14.0")
