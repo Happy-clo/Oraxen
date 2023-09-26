@@ -53,7 +53,7 @@ dependencies {
     compileOnly("me.gabytm.util:actions-core:$actionsVersion")
     compileOnly("org.springframework:spring-expression:6.0.12")
     compileOnly("io.lumine:Mythic-Dist:5.4.0-SNAPSHOT")
-    compileOnly("io.lumine:MythicCrucible:1.7.0-SNAPSHOT")
+    compileOnly("io.lumine:MythicCrucible:2.0.0-SNAPSHOT")
     compileOnly("com.sk89q.worldedit:worldedit-bukkit:7.2.0")
     compileOnly("commons-io:commons-io:2.13.0")
     compileOnly("com.ticxo.modelengine:api:R3.1.8")
