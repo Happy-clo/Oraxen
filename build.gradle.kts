@@ -41,7 +41,7 @@ repositories {
     maven("https://maven.enginehub.org/repo/")
 }
 
-val commandApiVersion = "9.1.0"
+val commandApiVersion = "9.2.0"
 dependencies {
     val actionsVersion = "1.0.0-SNAPSHOT"
 
