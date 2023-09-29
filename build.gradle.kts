@@ -68,7 +68,7 @@ dependencies {
     implementation("com.github.oraxen:protectionlib:1.3.4")
     implementation("net.kyori:adventure-text-minimessage:4.14.0")
     implementation("net.kyori:adventure-text-serializer-plain:4.14.0")
-    implementation("net.kyori:adventure-platform-bukkit:4.3.0")
+    implementation("net.kyori:adventure-platform-bukkit:4.3.1")
     implementation("com.github.stefvanschie.inventoryframework:IF:0.10.9")
     implementation("com.jeff_media:CustomBlockData:2.2.0")
     implementation("com.jeff_media:MorePersistentDataTypes:2.4.0")
