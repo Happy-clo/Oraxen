@@ -56,7 +56,7 @@ dependencies {
     compileOnly("io.lumine:MythicCrucible:1.7.0-SNAPSHOT")
     compileOnly("com.sk89q.worldedit:worldedit-bukkit:7.2.0")
     compileOnly("commons-io:commons-io:2.13.0")
-    compileOnly("com.ticxo.modelengine:api:R3.1.8")
+    compileOnly("com.ticxo.modelengine:api:R3.1.9")
     compileOnly(files("libs/compile/BSP.jar"))
     compileOnly("dev.jorel:commandapi-bukkit-shade:$commandApiVersion")
     compileOnly("io.lumine:MythicLib:1.1.6")
