@@ -63,7 +63,7 @@ dependencies {
     compileOnly("net.Indyuce:MMOItems:6.7.3")
     compileOnly("org.joml:joml:1.10.5") // Because pre 1.19.4 api does not have this in the server-jar
 
-    implementation("dev.triumphteam:triumph-gui:3.1.5")
+    implementation("dev.triumphteam:triumph-gui:3.1.6")
     implementation("org.bstats:bstats-bukkit:3.0.2")
     implementation("com.github.oraxen:protectionlib:1.3.4")
     implementation("net.kyori:adventure-text-minimessage:4.14.0")
