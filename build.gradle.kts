@@ -69,7 +69,7 @@ dependencies {
     implementation("net.kyori:adventure-text-minimessage:4.14.0")
     implementation("net.kyori:adventure-text-serializer-plain:4.14.0")
     implementation("net.kyori:adventure-platform-bukkit:4.3.0")
-    implementation("com.github.stefvanschie.inventoryframework:IF:0.10.9")
+    implementation("com.github.stefvanschie.inventoryframework:IF:0.10.12")
     implementation("com.jeff_media:CustomBlockData:2.2.0")
     implementation("com.jeff_media:MorePersistentDataTypes:2.4.0")
     implementation("com.jeff_media:PersistentDataSerializer:1.0-SNAPSHOT")
