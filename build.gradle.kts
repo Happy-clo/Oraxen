@@ -75,7 +75,7 @@ dependencies {
     implementation("com.jeff_media:PersistentDataSerializer:1.0-SNAPSHOT")
     implementation("gs.mclo:java:2.2.1")
     implementation("com.ticxo:PlayerAnimator:R1.2.7")
-    implementation("org.jetbrains:annotations:24.0.1") { isTransitive = false }
+    implementation("org.jetbrains:annotations:24.1.0") { isTransitive = false }
 
     implementation("me.gabytm.util:actions-spigot:$actionsVersion") { exclude(group = "com.google.guava") }
 }
