@@ -46,7 +46,7 @@ dependencies {
     val actionsVersion = "1.0.0-SNAPSHOT"
 
     compileOnly("org.spigotmc:spigot-api:1.20.1-R0.1-SNAPSHOT")
-    compileOnly("io.papermc.paper:paper-api:1.20.1-R0.1-SNAPSHOT") { exclude("net.kyori") }
+    compileOnly("io.papermc.paper:paper-api:1.20.4-R0.1-SNAPSHOT") { exclude("net.kyori") }
     compileOnly("com.comphenix.protocol:ProtocolLib:5.1.0")
     compileOnly("me.clip:placeholderapi:2.11.3")
     compileOnly("com.github.BeYkeRYkt:LightAPI:5.3.0-Bukkit")
